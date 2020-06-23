@@ -1,0 +1,682 @@
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set POCKET REGION
+ Seed: ooqmyEwmWkOecCKmwos6
+ History Seed: wAK208SoKgoYsoUmAsc0
+ Name Seed: akAUeMgUcEUSQYqqe82I
+ Creature Seed: sWQkku2i6ugMwGgA2uAY
+** Starting Adventure **
+You drop the copper bolts [33].
+You pick up the copper bolts [33] with your second right hand.
+The dwarf peddler Nil ïnulrosat: Greetings.  My name is Nil Mirrorchapels.
+You drop the copper crossbow.
+You drop the copper crossbow.
+You drop the copper crossbow.
+You drop the copper bolts [33].
+You pick up the copper bolts [5] with your first left hand.
+You drop the tin flask.
+The dwarf fish cleaner Uzol Tulon¢d: Is this an attack?  I feel very uneasy.
+The dwarf Kogan AlÜthbavast stands up.
+The dwarf suturer ïnul Mebzuth¢d (to the dwarf woodcrafter Mafol Ducimgamil): My trust is earned, and not by many.
+The dwarf engraver Fath Berdesis (to the dwarf architect Astesh Bomrekmusar): It is terrifying.
+The dwarf Asmel Gikutrith (to the dwarf bowyer Bomrek Vabìkustuth): Spare me the compliments.
+The dwarf suturer ïnul Mebzuth¢d (to the dwarf woodcrafter Mafol Ducimgamil): Do you have dreams?  Tell me a story!
+The dwarf Aban Akrularban (to the dwarf Dod¢k KekimstinthÑd): The struggle for power must be balanced by other considerations.
+The dwarf Dod¢k KekimstinthÑd: Is this an attack?  What's going on?!
+The dwarf metalcrafter Vutok Shedimmîrul (to the dwarf surgeon Ducim Fathgeshud): Ah, hello.  I'm Vutok Shadowpage.
+The dwarf fish cleaner Ast Shetbàthetur (to the dwarf engraver Ingish Eraltizît): It is terrifying.
+The dwarf farmer Rith Udarmistàm (to the baron of Winterirons Uvash Dod¢ksedil): So, the forgotten beasts and the chickens...
+The dwarf cheese maker Kib Tekkudlar (to the dwarf Kogan AlÜthbavast): Why must they be so violent?
+The dwarf Dod¢k KekimstinthÑd (to the dwarf Aban Akrularban): I concur!
+The dwarf surgeon Ducim Fathgeshud (to the dwarf metalcrafter Vutok Shedimmîrul): There are times when it is best to keep your feelings to yourself, but I wouldn't want to force it.
+You strap the copper crossbow to your Upper body.
+The dwarf engraver Ingish Eraltizît (to the dwarf fish cleaner Ast Shetbàthetur): The world is safer for travelers when night creatures no longer stalk the darkness.  Gravemurk is in The Considerate Forest.  Seek this place if you hunt Ngotol Ghosttomb the dark creature.
+The dwarf engraver Fath Berdesis (to the dwarf architect Astesh Bomrekmusar): It is terrifying.
+The dwarf Asmel Gikutrith (to the dwarf bowyer Bomrek Vabìkustuth): Spare me the compliments.
+The dwarf suturer ïnul Mebzuth¢d (to the dwarf woodcrafter Mafol Ducimgamil): I'm good.
+The dwarf Kogan AlÜthbavast (to the dwarf cheese maker Kib Tekkudlar): I'm doing fine.
+The dwarf Aban Akrularban (to the dwarf Dod¢k KekimstinthÑd): One should always respect the law.
+The dwarf metalcrafter Vutok Shedimmîrul (to the dwarf surgeon Ducim Fathgeshud): Truly.
+The dwarf fish cleaner Ast Shetbàthetur (to the dwarf engraver Ingish Eraltizît): It is terrifying.
+The dwarf architect Astesh Bomrekmusar (to the dwarf engraver Fath Berdesis): It is terrifying.
+The dwarf bowyer Bomrek Vabìkustuth (to the dwarf Asmel Gikutrith): The large pig tail robe really makes the outfit.
+The dwarf woodcrafter Mafol Ducimgamil (to the dwarf suturer ïnul Mebzuth¢d): I feel just fine.
+The dwarf farmer Rith Udarmistàm (to the baron of Winterirons Uvash Dod¢ksedil): So, the goat and the large rat...
+The dwarf cheese maker Kib Tekkudlar (to the dwarf Kogan AlÜthbavast): It's so great when everybody just gets along.
+The dwarf Dod¢k KekimstinthÑd (to the dwarf Aban Akrularban): I concur!
+The dwarf engraver Ingish Eraltizît (to the dwarf fish cleaner Ast Shetbàthetur): It is terrifying.
+The dwarf surgeon Ducim Fathgeshud (to the dwarf metalcrafter Vutok Shedimmîrul): I got into an argument.  It makes me very bitter.
+The dwarf engraver Fath Berdesis (to the dwarf architect Astesh Bomrekmusar): A vile beast from the caverns now walks the land.  The creature is Vel Kindledpatterns the troll.
+The dwarf Asmel Gikutrith (to the dwarf bowyer Bomrek Vabìkustuth): Spare me the compliments.
+The dwarf fish cleaner Ast Shetbàthetur stands up.
+The dwarf suturer ïnul Mebzuth¢d (to the dwarf woodcrafter Mafol Ducimgamil): I've been fine.
+The dwarf Kogan AlÜthbavast (to the dwarf cheese maker Kib Tekkudlar): People are basically trustworthy.
+The dwarf Aban Akrularban (to the dwarf Dod¢k KekimstinthÑd): Goodbye.
+The dwarf fish cleaner Ast Shetbàthetur (to the dwarf engraver Ingish Eraltizît): So, the deer man and the purring maggot...
+The dwarf metalcrafter Vutok Shedimmîrul (to the dwarf surgeon Ducim Fathgeshud): Always deal fairly.
+The dwarf architect Astesh Bomrekmusar (to the dwarf engraver Fath Berdesis): It is terrifying.
+The dwarf woodcrafter Mafol Ducimgamil (to the dwarf suturer ïnul Mebzuth¢d): I don't mind stirring things up.
+The dwarf bowyer Bomrek Vabìkustuth (to the dwarf Asmel Gikutrith): The large pig tail robe really makes the outfit.
+The dwarf farmer Rith Udarmistàm (to the baron of Winterirons Uvash Dod¢ksedil): ... and the elf said, "Are you going to eat that?"
+The dwarf cheese maker Kib Tekkudlar (to the dwarf Kogan AlÜthbavast): Goodbye.
+The dwarf Dod¢k KekimstinthÑd (to the dwarf Aban Akrularban): Goodbye.
+The dwarf surgeon Ducim Fathgeshud stands up.
+The dwarf engraver Ingish Eraltizît (to the dwarf fish cleaner Ast Shetbàthetur): Ha ha ha...  You're funny!
+The dwarf surgeon Ducim Fathgeshud (to the dwarf metalcrafter Vutok Shedimmîrul): So true, so true.
+The dwarf Asmel Gikutrith (to the dwarf bowyer Bomrek Vabìkustuth): Spare me the compliments.
+The dwarf Kogan AlÜthbavast (to the dwarf cheese maker Kib Tekkudlar): Goodbye.
+The dwarf metalcrafter Vutok Shedimmîrul (to the dwarf surgeon Ducim Fathgeshud): Society flourishes when law breakers are punished.
+The dwarf bowyer Bomrek Vabìkustuth stands up.
+The dwarf architect Astesh Bomrekmusar (to the dwarf engraver Fath Berdesis): Mastering the forces of nature would glorify us in the eyes of the world.  Fogvine the Plain Den is in The Occult Spike.  Seek this place if you hunt Dawnrained the Simple the hill titan.
+The dwarf woodcrafter Mafol Ducimgamil stands up.
+The dwarf woodcrafter Mafol Ducimgamil (to the dwarf suturer ïnul Mebzuth¢d): Oh, I'm nothing special.
+The dwarf bowyer Bomrek Vabìkustuth (to the dwarf Asmel Gikutrith): The large pig tail robe really makes the outfit.
+The dwarf farmer Rith Udarmistàm (to the baron of Winterirons Uvash Dod¢ksedil): ... and the dwarves saw the sun and vomited on the spot!
+The dwarf engraver Ingish Eraltizît (to the dwarf fish cleaner Ast Shetbàthetur): It is terrifying.
+The dwarf blacksmith Rigïth Avuznïm stands up.
+Kadol Kolvudthar, Dwarf Farmer is no longer enraged.
+The dwarf woodcrafter Id °kthagthåkut (to the dwarf fish cleaner Obok Erushzenon): An unknown creature attacked an unknown creature.  It was inevitable.
+The dwarf Edâm Asmelsobçr (to the dwarf papermaker Udil Azmollibash): The large brown recluse spider silk trousers really makes the outfit.
+The dwarf thresher Rith Ilrals†krith (to the dwarf Edzul Tosidanam): I'm alright.
+The dwarf woodcrafter Id °kthagthåkut (to the dwarf fish cleaner Obok Erushzenon): It is terrifying.
+The dwarf Edâm Asmelsobçr (to the dwarf papermaker Udil Azmollibash): The large brown recluse spider silk trousers really makes the outfit.
+The dwarf brewer Mafol Egomsazir (to the outpost liaison Catten Tathtatdastot): The large black bear leather robe really makes the outfit.
+The dwarf blacksmith Rigïth Avuznïm (to the dwarf èblel LÑrimrovod): No doubt.
+The dwarf Id Eribamud (to the dwarf thresher Likot Buzatkulet): Not one hour ago I attacked me.
+The dwarf fish cleaner Obok Erushzenon (to the dwarf woodcrafter Id °kthagthåkut): It is terrifying.
+The dwarf thresher Rith Ilrals†krith (to the dwarf Edzul Tosidanam): I'm well.
+The dwarf Cerol Aludavuz (to the dwarf beekeeper Imush Libashtathur): Not one hour ago I attacked me.
+The dwarf fish cleaner Thåkut Zimkelerush (to the dwarf wax worker Kol Ilraledtñl): Not one hour ago I attacked me.
+The dwarf woodcrafter Id °kthagthåkut (to the dwarf fish cleaner Obok Erushzenon): A few minutes ago I attacked me.
+The dwarf Edâm Asmelsobçr (to the dwarf papermaker Udil Azmollibash): The large brown recluse spider silk trousers really makes the outfit.
+The dwarf brewer Mafol Egomsazir (to the outpost liaison Catten Tathtatdastot): Society flourishes when law breakers are punished.
+The dwarf blacksmith Rigïth Avuznïm (to the dwarf èblel LÑrimrovod): No doubt.
+The dwarf fish dissector Vutok IdrÑthkonos (to the dwarf furnace operator Urist Dallithilral): Not one hour ago I attacked me.
+The dwarf Id Eribamud (to the dwarf thresher Likot Buzatkulet): I feel well.
+The dwarf wax worker Kol Ilraledtñl (to the dwarf fish cleaner Thåkut Zimkelerush): Try to focus on the practical side of the matter.
+The dwarf fish cleaner Obok Erushzenon (to the dwarf woodcrafter Id °kthagthåkut): An unknown creature attacked an unknown creature.  It was inevitable.
+The dwarf thresher Rith Ilrals†krith (to the dwarf Edzul Tosidanam): A few minutes ago I attacked me.
+The dwarf èblel LÑrimrovod (to the dwarf blacksmith Rigïth Avuznïm): I like a balance of tranquility and commotion myself.
+The dwarf furnace operator Urist Dallithilral (to the dwarf fish dissector Vutok IdrÑthkonos): I'm curious.  Tell me everything!
+The dwarf fish cleaner Thåkut Zimkelerush (to the dwarf wax worker Kol Ilraledtñl): There's nothing like a good brawl.
+The dwarf woodcrafter Id °kthagthåkut (to the dwarf fish cleaner Obok Erushzenon): An unknown creature attacked an unknown creature.  It was inevitable.
+The dwarf Edâm Asmelsobçr (to the dwarf papermaker Udil Azmollibash): The large guineafowl leather toga really makes the outfit.
+The dwarf carpenter Vutok Subetdomas (to the militia commander Zan Lïrazin): A few minutes ago I attacked me.
+The dwarf brewer Mafol Egomsazir (to the outpost liaison Catten Tathtatdastot): I am a very, very important person.
+The dwarf Edzul Tosidanam (to the dwarf thresher Rith Ilrals†krith): Not one hour ago I attacked me.
+The dwarf fish dissector Vutok IdrÑthkonos (to the dwarf furnace operator Urist Dallithilral): Not one hour ago I attacked me.
+The dwarf Id Eribamud (to the dwarf thresher Likot Buzatkulet): The large llama wool cap really makes the outfit.
+The dwarf Cerol Aludavuz (to the dwarf beekeeper Imush Libashtathur): People are basically trustworthy.
+The dwarf blacksmith Rigïth Avuznïm (to the dwarf èblel LÑrimrovod): No doubt.
+The dwarf wax worker Kol Ilraledtñl (to the dwarf fish cleaner Thåkut Zimkelerush): It really gets me down sometimes.
+The dwarf animal dissector SÜkzul S†krithoddom stands up.
+The dwarf fish cleaner Obok Erushzenon (to the dwarf woodcrafter Id °kthagthåkut): I'm not much of a decision maker.
+The dwarf Vutok Asteshsanreb (to the dwarf Unib Omerlokum): I feel fine.
+The dwarf papermaker Udil Azmollibash (to the dwarf Edâm Asmelsobçr): You insult me with your flattery, but let us move on.
+The dwarf thresher Rith Ilrals†krith (to the dwarf Edzul Tosidanam): Some people are so wrapped up in themselves.
+The dwarf furnace operator Urist Dallithilral (to the dwarf fish dissector Vutok IdrÑthkonos): I've been alright.
+The dwarf èblel LÑrimrovod (to the dwarf blacksmith Rigïth Avuznïm): Always deal fairly.
+The dwarf fish cleaner Thåkut Zimkelerush (to the dwarf wax worker Kol Ilraledtñl): Not one hour ago I attacked me.
+The dwarf woodcrafter Id °kthagthåkut (to the dwarf fish cleaner Obok Erushzenon): The large pig tail right glove really makes the outfit.
+The dwarf Edâm Asmelsobçr (to the dwarf papermaker Udil Azmollibash): The large guineafowl leather toga really makes the outfit.
+The dwarf carpenter Vutok Subetdomas (to the militia commander Zan Lïrazin): Not one hour ago I attacked me.
+The dwarf brewer Mafol Egomsazir (to the outpost liaison Catten Tathtatdastot): I'm doing fine.
+The dwarf Edzul Tosidanam (to the dwarf thresher Rith Ilrals†krith): Not one hour ago I attacked me.
+The dwarf blacksmith Rigïth Avuznïm stands up.
+The dwarf fish dissector Vutok IdrÑthkonos (to the dwarf furnace operator Urist Dallithilral): I don't like being obligated to anybody.
+The dwarf Id Eribamud (to the dwarf thresher Likot Buzatkulet): The large sheep wool robe really makes the outfit.
+The dwarf Cerol Aludavuz (to the dwarf beekeeper Imush Libashtathur): Not one hour ago I attacked me.
+The dwarf blacksmith Rigïth Avuznïm (to the dwarf èblel LÑrimrovod): Don't waste my time with this drivel.
+The dwarf wax worker Kol Ilraledtñl (to the dwarf fish cleaner Thåkut Zimkelerush): A few minutes ago I attacked me.
+The dwarf Vutok Asteshsanreb (to the dwarf Unib Omerlokum): What's the rush?
+The dwarf Rovod Rodimasân stands up.
+The dwarf papermaker Udil Azmollibash (to the dwarf Edâm Asmelsobçr): You insult me with your flattery, but let us move on.
+The dwarf thresher Rith Ilrals†krith (to the dwarf Edzul Tosidanam): Not one hour ago I attacked me.
+The dwarf Edâm Asmelsobçr stands up.
+The dwarf furnace operator Urist Dallithilral (to the dwarf fish dissector Vutok IdrÑthkonos): Not one hour ago I attacked me.
+The dwarf èblel LÑrimrovod (to the dwarf blacksmith Rigïth Avuznïm): If you insist so strongly, we can move on.
+The dwarf carpenter Vutok Subetdomas (to the militia commander Zan Lïrazin): Everything's good.
+The dwarf Edzul Tosidanam (to the dwarf thresher Rith Ilrals†krith): How can people be so glum?
+The dwarf fish dissector Vutok IdrÑthkonos (to the dwarf furnace operator Urist Dallithilral): Not one hour ago I attacked me.
+The dwarf wax worker Kol Ilraledtñl (to the dwarf fish cleaner Thåkut Zimkelerush): The large sheep wool robe really makes the outfit.
+The dwarf Vutok Asteshsanreb (to the dwarf Unib Omerlokum): I'm good.
+The dwarf papermaker Udil Azmollibash (to the dwarf Edâm Asmelsobçr): You insult me with your flattery, but let us move on.
+The dwarf brewer Mafol Egomsazir stands up.
+The dwarf Edzul Tosidanam stands up.
+The dwarf fish cleaner Obok Erushzenon stands up.
+The dwarf blacksmith Rigïth Avuznïm stands up.
+The dwarf Edâm Asmelsobçr (to the dwarf papermaker Udil Azmollibash): The large brown recluse spider silk trousers really makes the outfit.
+The dwarf animal dissector SÜkzul S†krithoddom (to the dwarf farmer Kadol Kolvudthar): Not one hour ago I attacked me.
+The dwarf papermaker Udil Azmollibash (to the dwarf Edâm Asmelsobçr): You insult me with your flattery, but let us move on.
+The dwarf Edâm Asmelsobçr (to the dwarf papermaker Udil Azmollibash): The large brown recluse spider silk trousers really makes the outfit.
+The dwarf animal dissector SÜkzul S†krithoddom (to the dwarf farmer Kadol Kolvudthar): Everybody has their own way of life.
+The dwarf papermaker Udil Azmollibash (to the dwarf Edâm Asmelsobçr): Thank you for your kind words.
+The dwarf Edâm Asmelsobçr (to the dwarf papermaker Udil Azmollibash): The large guineafowl leather toga really makes the outfit.
+The dwarf animal dissector SÜkzul S†krithoddom (to the dwarf farmer Kadol Kolvudthar): Not one hour ago I attacked me.
+The dwarf papermaker Udil Azmollibash (to the dwarf Edâm Asmelsobçr): You insult me with your flattery, but let us move on.
+The dwarf blacksmith Rigïth Avuznïm stands up.
+The dwarf Asmel Sazirubbul (to the dwarf Kib Rakustrigïth): Spare me the compliments.
+The dwarf carpenter Mîrul èblelaran (to the dwarf hunter Kulet Kilrudzim): It's a great day to fall in love all over again.
+The dwarf carpenter Mîrul èblelaran (to the dwarf hunter Kulet Kilrudzim): I get so jealous sometimes.
+The dwarf carpenter Mîrul èblelaran (to the dwarf hunter Kulet Kilrudzim): I'm good.
+The dwarf glazer Sazir Nokim¢d stands up.
+The dwarf Zon Fikodziril (to the broker Tosid Mîrulled): Our people have been pestered by skulking villains.  They have a camp called Pleelgus somewhere in The Hills of Diversion.
+The dwarf Rovod Melbiladil (to the dwarf animal trainer Deler Gutidolin): I could really use a drink.
+The dwarf beekeeper Thob Loloklålar (to the dwarf farmer Melbil ärithkashez): I'm doing fine.
+The dwarf diagnoser Lorbam Delerod (to the dwarf farmer Asmel Kosothlaltur): Don't waste my time.
+The dwarf Deler Rigïthdallith (to the dwarf glazer Sazir Nokim¢d): The large brown recluse spider silk robe really makes the outfit.
+The dwarf tanner Endok Kikrostroder (to the dwarf butcher Mñthkat ¢rsibrek): I need some more excitement in my life.
+The dwarf strand extractor Kivish Vetekthob (to the dwarf presser Etur Becorendok): I feel fine.
+The broker Tosid Mîrulled (to the dwarf Zon Fikodziril): It is terrifying.
+The dwarf animal trainer Deler Gutidolin (to the dwarf Rovod Melbiladil): I wonder what they think.
+The dwarf animal dissector Solon Kikrostnish (to the dwarf fish cleaner Zefon Uthmikkeskal): W... worried?  Do I look worried?
+The dwarf farmer Melbil ärithkashez (to the dwarf beekeeper Thob Loloklålar): I'm not much of a decision maker.
+The dwarf farmer Asmel Kosothlaltur (to the dwarf diagnoser Lorbam Delerod): So, the giant mountain goats and the crab man...
+The dwarf presser Etur Becorendok (to the dwarf strand extractor Kivish Vetekthob): Everything's alright.
+The dwarf Zon Fikodziril (to the broker Tosid Mîrulled): It is terrifying.
+The dwarf Rovod Melbiladil (to the dwarf animal trainer Deler Gutidolin): What's the rush?
+The dwarf fish cleaner Zefon Uthmikkeskal (to the dwarf animal dissector Solon Kikrostnish): I'm not much of a decision maker.
+The dwarf beekeeper Thob Loloklålar (to the dwarf farmer Melbil ärithkashez): I need some more excitement in my life.
+The dwarf diagnoser Lorbam Delerod (to the dwarf farmer Asmel Kosothlaltur): Don't waste my time.
+The dwarf Rovod Melbiladil stands up.
+The dwarf tanner Endok Kikrostroder (to the dwarf butcher Mñthkat ¢rsibrek): I go with the flow sometimes.
+The dwarf strand extractor Kivish Vetekthob (to the dwarf presser Etur Becorendok): We must be careful not to waste.
+The broker Tosid Mîrulled (to the dwarf Zon Fikodziril): A beast from underground has been assailing us.  The creature is Slozgo Purplecalled the troll.  Knowing no mercy, Slozgo devoured our livestock!  This vile fiend even murdered Edzul Inkshell!
+The dwarf animal trainer Deler Gutidolin (to the dwarf Rovod Melbiladil): Sometimes I think I need a drink, but I can control myself.
+The dwarf animal dissector Solon Kikrostnish (to the dwarf fish cleaner Zefon Uthmikkeskal): People should listen to what I have to say.
+The dwarf farmer Melbil ärithkashez (to the dwarf beekeeper Thob Loloklålar): I'm concentrating on something.
+The dwarf farmer Asmel Kosothlaltur (to the dwarf diagnoser Lorbam Delerod): The large alpaca wool dress really makes the outfit.
+The dwarf presser Etur Becorendok (to the dwarf strand extractor Kivish Vetekthob): I've been alright.
+The dwarf Zon Fikodziril (to the broker Tosid Mîrulled): It is terrifying.
+The dwarf Rovod Melbiladil (to the dwarf animal trainer Deler Gutidolin): I prefer to be by myself.
+The dwarf tanner Endok Kikrostroder (to the dwarf butcher Mñthkat ¢rsibrek): Everything's alright.
+The dwarf strand extractor Kivish Vetekthob (to the dwarf presser Etur Becorendok): Yes, I want more.  Is that so bad?
+The broker Tosid Mîrulled (to the dwarf Zon Fikodziril): It is terrifying.
+The dwarf animal dissector Solon Kikrostnish (to the dwarf fish cleaner Zefon Uthmikkeskal): Bravery is not a strength of mine.
+The dwarf farmer Melbil ärithkashez (to the dwarf beekeeper Thob Loloklålar): Everything's good.
+The dwarf farmer Asmel Kosothlaltur (to the dwarf diagnoser Lorbam Delerod): The large pig tail left glove really makes the outfit.
+The dwarf Zon Fikodziril stands up.
+The dwarf animal trainer Deler Gutidolin (to the dwarf Rovod Melbiladil): I'm well.
+The dwarf presser Etur Becorendok (to the dwarf strand extractor Kivish Vetekthob): Everything's alright.
+The dwarf Zon Fikodziril (to the broker Tosid Mîrulled): I like to dress well.
+The broker Tosid Mîrulled (to the dwarf Zon Fikodziril): Mastering the forces of nature would glorify us in the eyes of the world.  Fogvine the Plain Den is in The Occult Spike.  Seek this place if you hunt Dawnrained the Simple the hill titan.
+The dwarf animal dissector Solon Kikrostnish (to the dwarf fish cleaner Zefon Uthmikkeskal): Don't waste my time.
+The dwarf farmer Melbil ärithkashez (to the dwarf beekeeper Thob Loloklålar): I'm alright.
+The dwarf farmer Asmel Kosothlaltur (to the dwarf diagnoser Lorbam Delerod): So, the monitor lizards and the oyster...
+The dwarf animal trainer Deler Gutidolin (to the dwarf Rovod Melbiladil): I wonder what they think.
+The dwarf strand extractor Kivish Vetekthob stands up.
+The dwarf strand extractor Kivish Vetekthob (to the dwarf presser Etur Becorendok): You're so perceptive!
+The broker Tosid Mîrulled (to the dwarf Zon Fikodziril): It is terrifying.
+The dwarf animal dissector Solon Kikrostnish (to the dwarf fish cleaner Zefon Uthmikkeskal): Ha ha ha...  You're funny!
+The dwarf farmer Melbil ärithkashez (to the dwarf beekeeper Thob Loloklålar): I'm fine.
+The dwarf farmer Asmel Kosothlaltur (to the dwarf diagnoser Lorbam Delerod): The large pig tail coat really makes the outfit.
+The dwarf animal trainer Deler Gutidolin (to the dwarf Rovod Melbiladil): It's not perfect, but it's good enough.  Why fret about it?
+You stand up.
+The dwarf animal dissector Solon Kikrostnish stands up.
+You draw the copper crossbow with your Second left hand.
+You strap the copper crossbow to your Upper body.
+You can't rest until you are on a stable surface.
+It is the 15th of Granite, 30.
+It is raining.
+The sky above you is a uniform and dark gray.
+The sun is in the eastern sky behind the clouds.
+There is a cool breeze blowing from the west.
+You: Greetings.  My name is Kimberly Trademine.
+The human monk Nish Imiksazir: Ah, hello.  I'm Nish Chuckbridge.  Kimberly.  I can't say I've heard that before.  Praise volcanos.
+You: Why are you traveling?
+The human monk Nish Imiksazir: I'm just out for a stroll.
+You: How have things been?
+The human monk Nish Imiksazir: The dwarf Uvash Claspangels of The Adventurous Trade wants Streamdesert the Fated Block the large eagle leather right mitten returned.  Last I heard, it was in Parchedcrack.
+You: Goodbye.
+The human monk Nish Imiksazir: Goodbye.
+You pull off the pecan wood branch with your second right hand.
+Your intense search turns up nothing.
+You've found a small creature.
+You've already searched this area recently.
+You've found some small creatures.
+Your intense search turns up nothing.
+You've found some small creatures.
+You've found some small creatures.
+Your intense search turns up nothing.
+You've found some small creatures.
+You pick up the small siltstone rock with your second left hand.
+You pick up the small siltstone rock and put it in your echidna leather backpack.
+You pick up the small siltstone rock and put it in your echidna leather backpack.
+You take out the small siltstone rock.
+You make a sharp siltstone.
+You make a +pecan wood helve+.
+You make a siltstone axe.
+You chop down the persimmon tree.
+You lie on the ground.
+You stand up.
+You chop down the pomelo tree.
+You chop down the orange tree.
+It is raining.
+The sky above you is gray.
+The sun is low in the western sky behind the clouds.
+There is a cool breeze blowing from the west.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): ... and the dwarves saw the sun and vomited on the spot!
+The dwarf engraver åton åtonïnul (to the dwarf tanner Aban BârñleshtÉn): It's such a joy to be with people.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): Who cares what they think?
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf Lïr Nishibesh): My trust is earned, and not by many.
+The dwarf engraver åton åtonïnul (to the dwarf tanner Aban BârñleshtÉn): I'm doing alright.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): So, the peregrine falcon man and the mosquito...
+The dwarf tanner Aban BârñleshtÉn (to the dwarf engraver åton åtonïnul): I feel alright.
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf Lïr Nishibesh): Be happy!
+You drink the water [3].
+The dwarf engraver åton åtonïnul (to the dwarf tanner Aban BârñleshtÉn): Everybody has their own way of life.
+You eat the onions [10].
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): ... and the dwarves saw the sun and vomited on the spot!
+The dwarf tanner Aban BârñleshtÉn (to the dwarf engraver åton åtonïnul): What's the rush?
+The dwarf Zon Fikodziril stands up.
+The dwarf engraver åton åtonïnul (to the dwarf tanner Aban BârñleshtÉn): Maybe I give up too early sometimes.
+The dwarf Edâm ãlulathel stands up.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): I don't always do things in the most efficient way.
+The dwarf tanner Aban BârñleshtÉn (to the dwarf engraver åton åtonïnul): I prefer to be by myself.
+The dwarf engraver åton åtonïnul (to the dwarf tanner Aban BârñleshtÉn): Oh, I'm nothing special.
+The dwarf woodcutter Dumat KÉkdallogem has become enraged!
+The dwarf tanner Aban BârñleshtÉn (to the dwarf engraver åton åtonïnul): I'm alright.
+The dwarf engraver åton åtonïnul stands up.
+The dwarf engraver åton åtonïnul (to the dwarf tanner Aban BârñleshtÉn): I'm fine.
+The dwarf engraver åton åtonïnul (to the dwarf tanner Aban BârñleshtÉn): Everything's good.
+The dwarf engraver åton åtonïnul (to the dwarf tanner Aban BârñleshtÉn): Everybody has their own way of life.
+The dwarf engraver åton åtonïnul (to the dwarf tanner Aban BârñleshtÉn): I'm doing alright.
+The broker Tosid Mîrulled stands up.
+The dwarf craftsdwarf Kñbuk Reglerteth stands up.
+You lie on the ground.
+You stand up.
+You drink the water [2].
+You eat the onions [9].
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf Lïr Nishibesh): Do you have dreams?  Tell me a story!
+The dwarf cook Nish Ralevost (to the dwarf tanner Aban BârñleshtÉn): I don't understand how somebody can become so obsessed by what somebody else has.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf Lïr Nishibesh): I'm feeling optimistic about the future.
+The dwarf Lïr Nishibesh (to the dwarf bookbinder Mistàm Besmarudib): Yes, I want more.  Is that so bad?
+The dwarf cook Nish Ralevost (to the dwarf tanner Aban BârñleshtÉn): I'm alright.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf Lïr Nishibesh): I don't feel like telling you about it.
+The dwarf tanner Aban BârñleshtÉn (to the dwarf cook Nish Ralevost): What's the rush?
+The dwarf Lïr Nishibesh (to the dwarf bookbinder Mistàm Besmarudib): Everybody has their own way of life.
+The dwarf cook Nish Ralevost (to the dwarf tanner Aban BârñleshtÉn): There's no room for mercy in this world.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf Lïr Nishibesh): Yes, I want more.  Is that so bad?
+The dwarf tanner Aban BârñleshtÉn (to the dwarf cook Nish Ralevost): What's the rush?
+The dwarf Lïr Nishibesh (to the dwarf bookbinder Mistàm Besmarudib): Everything's good.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf Lïr Nishibesh): I'm feeling optimistic about the future.
+The dwarf cook Nish Ralevost (to the dwarf tanner Aban BârñleshtÉn): There's no room for mercy in this world.
+The dwarf Lïr Nishibesh (to the dwarf bookbinder Mistàm Besmarudib): If you have a task, do it properly.
+The dwarf tanner Aban BârñleshtÉn (to the dwarf cook Nish Ralevost): I'm well.
+The dwarf cook Nish Ralevost (to the dwarf tanner Aban BârñleshtÉn): I don't really want to know.
+The dwarf Lïr Nishibesh (to the dwarf bookbinder Mistàm Besmarudib): One should always return a favor.
+You have discovered a river.
+You drink the water.
+You fill your tin flask with water.
+You cannot travel through the camp.
+You have discovered a river.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Adventurer **
+You lick the tin flask.
+You drink the water.
+You eat the onions [8].
+You eat the onions [7].
+You are starting to feel full.
+It is raining.
+The sky above you is a uniform and dark gray.
+The sun is in the western sky behind the clouds.
+There is a cool breeze blowing from the west.
+It is raining.
+The sky above you is a uniform and dark gray.
+The sun is in the western sky behind the clouds.
+There is a cool breeze blowing from the west.
+You lie on the ground.
+You drink the water [2].
+You drink the water.
+You eat the onions [6].
+You are starting to feel full.
+You eat the onions [5].
+You feel really full.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): ... and the elves said, "Are you going to eat that?"
+The dwarf administrator Rovod Vudtharïnul (to the dwarf furnace operator Etur D†kmomuz): Ha ha ha...  You're funny!
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): The struggle for power must be balanced by other considerations.
+The dwarf administrator Rovod Vudtharïnul (to the dwarf furnace operator Etur D†kmomuz): I concur!
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): I like a balance of tranquility and commotion myself.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf farmer Etur Nakuthmîrul): Yes, I want more.  Is that so bad?
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): The large sheep wool right glove really makes the outfit.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf farmer Etur Nakuthmîrul): Don't waste my time.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): So, the tapir and the leech men...
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf farmer Etur Nakuthmîrul): Don't waste my time.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): I'm fine.
+The dwarf administrator Rovod Vudtharïnul (to the dwarf furnace operator Etur D†kmomuz): I've been alright.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): You shouldn't get too carried away with romance, but it's fine in moderation.
+The dwarf administrator Rovod Vudtharïnul (to the dwarf furnace operator Etur D†kmomuz): I agree completely.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): Always deal fairly.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf farmer Etur Nakuthmîrul): Ha ha ha...  You're funny!
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): ... and the dwarves saw the sun and vomited on the spot!
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf farmer Etur Nakuthmîrul): Ha ha ha...  You're funny!
+The dwarf farmer Etur Nakuthmîrul (to the dwarf bookbinder Mistàm Besmarudib): I am a very, very important person.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): I'm concentrating on something.
+The dwarf Edâm ãlulathel (to the dwarf cook Ubbul AlÜthnekut): I prefer to be by myself.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf farmer Etur Nakuthmîrul): Do you have dreams?  Tell me a story!
+The dwarf farmer Etur Nakuthmîrul (to the dwarf bookbinder Mistàm Besmarudib): ... and the dwarves saw the sun and vomited on the spot!
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): I'm well.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf farmer Etur Nakuthmîrul): Ha ha ha...  You're funny!
+The dwarf farmer Etur Nakuthmîrul stands up.
+The dwarf farmer Etur Nakuthmîrul: I have improved my comedy.  I am very satisfied.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): I feel well.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf bookbinder Mistàm Besmarudib): ... and the goblin said, "Are you going to eat that?"
+The dwarf farmer Etur Nakuthmîrul (to the dwarf bookbinder Mistàm Besmarudib): Get me going and I won't stop for anything.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf farmer Etur Nakuthmîrul): I'm doing well.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): My trust is earned, and not by many.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf bookbinder Mistàm Besmarudib): ... and the elves said, "Are you going to eat that?"
+The dwarf Edâm ãlulathel (to the dwarf cook Ubbul AlÜthnekut): Some people are so wrapped up in themselves.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf farmer Etur Nakuthmîrul): Ha ha ha...  You're funny!
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): I'm doing well.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): Be shrewd, but do not lose yourself in guile.
+The dwarf Edâm ãlulathel (to the dwarf cook Ubbul AlÜthnekut): I'm good.
+The dwarf administrator Rovod Vudtharïnul (to the dwarf furnace operator Etur D†kmomuz): So true, so true.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf administrator Rovod Vudtharïnul): I'm well.
+The dwarf Edâm ãlulathel (to the dwarf cook Ubbul AlÜthnekut): It's not a gift if you expect something in return.
+The dwarf administrator Rovod Vudtharïnul (to the dwarf furnace operator Etur D†kmomuz): I'm at my best under pressure.
+The dwarf administrator Rovod Vudtharïnul (to the dwarf furnace operator Etur D†kmomuz): Thank you for your kind words.
+The dwarf fish cleaner Zefon Uthmikkeskal (to the human diagnoser Icop Cerukortil): ... and the goblins said, "Are you going to eat that?"
+You cannot travel through the camp.
+You fill your tin flask with water.
+You strap the siltstone axe to your Upper body.
+You draw the copper crossbow with your Second right hand.
+You do not have a free grasp for the siltstone axe.
+You strap the copper crossbow to your Upper body.
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf bookbinder Mistàm Besmarudib): Try to keep an open mind.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): So, the giraffes and the giant giraffes...
+The dwarf cook Ubbul AlÜthnekut (to the dwarf animal caretaker Stukos Tunomber): I'm good.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf woodcrafter Zutthan ärithlecad): I'm feeling optimistic about the future.
+The dwarf fish cleaner Zefon Uthmikkeskal stands up.
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf bookbinder Mistàm Besmarudib): Try to keep an open mind.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf animal caretaker Stukos Tunomber): Don't waste my time.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf woodcrafter Zutthan ärithlecad): It's so great when everybody just gets along.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): I feel just fine.
+The dwarf animal caretaker Stukos Tunomber (to the dwarf cook Ubbul AlÜthnekut): ... and the goblins said, "Are you going to eat that?"
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf bookbinder Mistàm Besmarudib): Try to keep an open mind.
+The dwarf farmer Etur Nakuthmîrul stands up.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf animal caretaker Stukos Tunomber): Don't waste my time.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf woodcrafter Zutthan ärithlecad): Yes, I want more.  Is that so bad?
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): So, the worm and the swan man...
+The dwarf butcher Vabìk Asizärith (to the dwarf administrator Rovod Vudtharïnul): The large sheep wool shoe really makes the outfit.
+The dwarf animal caretaker Stukos Tunomber (to the dwarf cook Ubbul AlÜthnekut): People should be able to control themselves, but it's fine to follow impulses that aren't too harmful.
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf bookbinder Mistàm Besmarudib): Try to keep an open mind.
+The dwarf Nish Identomàm (to the dwarf furnace operator Etur D†kmomuz): The large cave spider silk coat really makes the outfit.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf animal caretaker Stukos Tunomber): Truly.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf woodcrafter Zutthan ärithlecad): It's a great day to fall in love all over again.
+The dwarf butcher Vabìk Asizärith (to the dwarf administrator Rovod Vudtharïnul): Do you have dreams?  Tell me a story!
+The dwarf Lïr Nishibesh: Greetings.  My name is Lïr Traderoasted.
+The dwarf Nish Identomàm (to the dwarf furnace operator Etur D†kmomuz): So, the werebeaver and the giant leech...
+The dwarf Nish Identomàm stands up.
+The dwarf bookbinder Mistàm Besmarudib (to the dwarf woodcrafter Zutthan ärithlecad): Do you have dreams?  Tell me a story!
+The dwarf butcher Vabìk Asizärith (to the dwarf administrator Rovod Vudtharïnul): Yes, I want more.  Is that so bad?
+The dwarf butcher Vabìk Asizärith (to the dwarf administrator Rovod Vudtharïnul): Do you have dreams?  Tell me a story!
+The dwarf butcher Vabìk Asizärith (to the dwarf administrator Rovod Vudtharïnul): The large giant cave spider silk coat really makes the outfit.
+The dwarf butcher Vabìk Asizärith (to the dwarf administrator Rovod Vudtharïnul): The large giant cave spider silk coat really makes the outfit.
+The dwarf animal caretaker Stukos Tunomber (to the dwarf cook Ubbul AlÜthnekut): How can people be so glum?
+The dwarf animal caretaker Stukos Tunomber (to the dwarf cook Ubbul AlÜthnekut): How can people be so glum?
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf bookbinder Mistàm Besmarudib): My trust is earned, and not by many.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf animal caretaker Stukos Tunomber): I was never one to follow advice.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): Who cares what they think?
+You eat the onions [4].
+You drink the water [3].
+You drink the water [2].
+You are starting to feel full.
+You eat the onions [3].
+You feel really full.
+You lie on the ground.
+You stand up.
+You drink the water.
+You eat the onions [2].
+The dwarf fish cleaner Obok Erushzenon (to the dwarf Nish Identomàm): Don't waste my time.
+The dwarf fish cleaner Obok Erushzenon (to the dwarf Nish Identomàm): I feel good.
+The dwarf Nish Identomàm (to the dwarf fish cleaner Obok Erushzenon): ... and the elves said, "Are you going to eat that?"
+The dwarf fish cleaner Obok Erushzenon (to the dwarf Nish Identomàm): Ha ha ha...  You're funny!
+The dwarf Nish Identomàm (to the dwarf fish cleaner Obok Erushzenon): ... and the elf said, "Are you going to eat that?"
+The dwarf Lïr Nishibesh (to the dwarf woodcrafter Zutthan ärithlecad): If you have a task, do it properly.
+The dwarf fish cleaner Obok Erushzenon (to the dwarf Nish Identomàm): Ha ha ha...  You're funny!
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf Lïr Nishibesh): I like to dress well.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf tanner Aban BârñleshtÉn): I'm fine.
+The dwarf Lïr Nishibesh (to the dwarf woodcrafter Zutthan ärithlecad): Show some mercy now and again.
+The dwarf tanner Aban BârñleshtÉn (to the dwarf farmer Etur Nakuthmîrul): I prefer to be by myself.
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf Lïr Nishibesh): I don't understand why they have to be that way.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf tanner Aban BârñleshtÉn): So, the giant anaconda and the sheep...
+The dwarf Lïr Nishibesh (to the dwarf woodcrafter Zutthan ärithlecad): If you have a task, do it properly.
+The dwarf tanner Aban BârñleshtÉn (to the dwarf farmer Etur Nakuthmîrul): Ha ha ha...  You're funny!
+The dwarf farmer Etur Nakuthmîrul stands up.
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf Lïr Nishibesh): Oh, I don't usually think much.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf tanner Aban BârñleshtÉn): I've been alright.
+The dwarf woodcrafter Zutthan ärithlecad (to the dwarf Lïr Nishibesh): I don't understand why they have to be that way.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf tanner Aban BârñleshtÉn): So, the buzzard man and the nightmare...
+The dwarf Lïr Nishibesh (to the dwarf woodcrafter Zutthan ärithlecad): I've been fine.
+The dwarf tanner Aban BârñleshtÉn (to the dwarf farmer Etur Nakuthmîrul): Ha ha ha...  You're funny!
+You cannot travel through the camp.
+You fill your tin flask with water.
+You eat the onion.
+You drink the water [3].
+You pick up the orange wood logs with your second right hand.
+You make a +orange wood door+.
+You pick up the orange wood logs with your second right hand.
+You make a -orange wood door-.
+You lie on the ground.
+You stand up.
+You pick up the orange wood logs and put it in your echidna leather backpack.
+You pick up the orange wood logs and put it in your echidna leather backpack.
+You drop the +orange wood door+.
+You drop the -orange wood door-.
+You drop the small siltstone rock.
+You drop the orange wood logs.
+You drop the orange wood logs.
+You feel uneasy.
+The dwarf woodcrafter Zutthan ärithlecad stands up.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): Everybody has their own way of life.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): ... and the dwarf saw the sun and vomited on the spot!
+The dwarf furnace operator Etur D†kmomuz (to the dwarf bookbinder Mistàm Besmarudib): Society flourishes when law breakers are punished.
+You: Hello Etur.
+The dwarf farmer Etur Nakuthmîrul: Hello.  It is good to see you.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf bookbinder Mistàm Besmarudib): ... and the goblins said, "Are you going to eat that?"
+You: Here's something you might be interested in...
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): I feel alright.
+The dwarf farmer Etur Nakuthmîrul: Really?  Please come closer.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf bookbinder Mistàm Besmarudib): So, the giant iguanas and the clownfish...
+The broker Tosid Mîrulled stands up.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): So, the lion tamarin men and the eagle men...
+You: Here's something you might be interested in...
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): ïnul Constructgilds of The Adventurous Trade wants Streamdesert the Fated Block the large eagle leather right mitten returned.  Last I heard, it was in Parchedcrack.
+The dwarf farmer Etur Nakuthmîrul: Really?  Alright.
+The dwarf farmer Etur Nakuthmîrul (to the dwarf cook Nish Ralevost): We are in Winterirons.  I'm not sure exactly where to look.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf bookbinder Mistàm Besmarudib): ... and the dwarf saw the sun and vomited on the spot!
+The dwarf furnace operator Etur D†kmomuz (to the dwarf bookbinder Mistàm Besmarudib): The large cave spider silk cap really makes the outfit.
+The dwarf furnace operator Etur D†kmomuz (to the dwarf bookbinder Mistàm Besmarudib): I'm not much of a decision maker.
+The dwarf tanner Endok Kikrostroder stands up.
+The dwarf woodcutter Dumat KÉkdallogem (to the dwarf hunter Melbil Bubnuscilob): I'm doing well.
+The dwarf mason Litast At°rtashem (to the dwarf fish cleaner Zefon Uthmikkeskal): Ha ha ha...  You're funny!
+The dwarf strand extractor Ushat Amkolvabìk (to the hammerer SÜkzul Reglñk): There's so much to be done!
+The human dyer Zomuth Dopodstruslot (to the dwarf Mosus Osorkadol): I'm good.
+The dwarf Udib Ölilzasit (to the dwarf animal caretaker Urdim Shemduthnur): So, the giant penguin and the lion men...
+The dwarf hunter Melbil Bubnuscilob (to the dwarf woodcutter Dumat KÉkdallogem): Yes, I want more.  Is that so bad?
+You: Hello Melbil.
+The human diagnoser Icop Cerukortil (to the dwarf Zon Fikodziril): I feel just fine.
+The dwarf animal caretaker Urdim Shemduthnur (to the dwarf Udib Ölilzasit): Ha ha ha...  You're funny!
+The dwarf tanner Endok Kikrostroder (to the dwarf animal trainer Deler Gutidolin): I go with the flow sometimes.
+The dwarf woodcutter Dumat KÉkdallogem (to the dwarf hunter Melbil Bubnuscilob): Who cares what they think?
+The dwarf hunter Melbil Bubnuscilob: Hello.  It is good to see you.  Praise marriage.
+The dwarf mason Litast At°rtashem (to the dwarf fish cleaner Zefon Uthmikkeskal): Don't waste my time.
+The dwarf strand extractor Ushat Amkolvabìk (to the hammerer SÜkzul Reglñk): The large cave spider silk dress really makes the outfit.
+The human dyer Zomuth Dopodstruslot (to the dwarf Mosus Osorkadol): I feel fine.
+The dwarf Udib Ölilzasit (to the dwarf animal caretaker Urdim Shemduthnur): So, the giant kiwis and the two-humped camels...
+The dwarf herbalist Olon Konoszim stands up.
+You: Let's trade.
+The dwarf hunter Melbil Bubnuscilob (to the dwarf woodcutter Dumat KÉkdallogem): Our people have been pestered by skulking villains.  They have a camp called Doshorbus somewhere in The Considerate Forest.
+The human diagnoser Icop Cerukortil (to the dwarf Zon Fikodziril): I'm doing alright.
+The dwarf animal caretaker Urdim Shemduthnur (to the dwarf Udib Ölilzasit): Ha ha ha...  You're funny!
+The dwarf tanner Endok Kikrostroder (to the dwarf animal trainer Deler Gutidolin): I'm doing fine.
+The dwarf hunter Melbil Bubnuscilob: Of course.  Let's do business.
+The dwarf woodcutter Dumat KÉkdallogem (to the dwarf hunter Melbil Bubnuscilob): It is terrifying.
+The dwarf mason Litast At°rtashem (to the dwarf fish cleaner Zefon Uthmikkeskal): I could really use a drink.
+The dwarf strand extractor Ushat Amkolvabìk (to the hammerer SÜkzul Reglñk): War is sometimes necessary, but peace must be valued as well, when we can have it.
+The human dyer Zomuth Dopodstruslot (to the dwarf Mosus Osorkadol): I've been fine.
+The dwarf Udib Ölilzasit (to the dwarf animal caretaker Urdim Shemduthnur): ... and the dwarf saw the sun and vomited on the spot!
+The dwarf hunter Melbil Bubnuscilob (to the dwarf woodcutter Dumat KÉkdallogem): It is terrifying.
+The dwarf Udib Ölilzasit stands up.
+You pick up the dwarven ale [40] with your second right hand.
+The human dyer Zomuth Dopodstruslot stands up.
+The dwarf Zon Fikodziril stands up.
+The human dyer Zomuth Dopodstruslot (to the dwarf Mosus Osorkadol): Everything's fine.
+The dwarf woodcutter Dumat KÉkdallogem (to the dwarf animal dissector StÉkud Abantakóth): One must always carefully consider the correct course of action.
+The dwarf Mosus Osorkadol (to the human dyer Zomuth Dopodstruslot): I'm well.
+You: Hello Zomuth.
+The dwarf animal dissector StÉkud Abantakóth (to the dwarf woodcutter Dumat KÉkdallogem): Yes, I want more.  Is that so bad?
+The dwarf brewer åton Inodevost (to the broker Tosid Mîrulled): It is terrifying.
+The human dyer Zomuth Dopodstruslot (to the dwarf Mosus Osorkadol): I've been alright.
+The dwarf miller StinthÑd Gusilmat (to the dwarf craftsdwarf Kñbuk Reglerteth): Maybe you're right.
+The dwarf woodcutter Dumat KÉkdallogem (to the dwarf animal dissector StÉkud Abantakóth): Goodbye.
+The human dyer Zomuth Dopodstruslot: Hello.  It is good to see you.
+The dwarf Mosus Osorkadol (to the human dyer Zomuth Dopodstruslot): One should always return a favor.
+The dwarf miller StinthÑd Gusilmat: I am awoken to nuances of artwork.  It's interesting.
+The dwarf animal dissector StÉkud Abantakóth (to the dwarf woodcutter Dumat KÉkdallogem): Goodbye.
+The dwarf brewer åton Inodevost (to the broker Tosid Mîrulled): Everything's good.
+You: Let's trade.
+The human dyer Zomuth Dopodstruslot (to the dwarf Mosus Osorkadol): Our people have been pestered by skulking villains.  They have a camp called Pleelgus somewhere in The Hills of Diversion.
+The dwarf miller StinthÑd Gusilmat (to the dwarf craftsdwarf Kñbuk Reglerteth): The large cave spider silk robe really makes the outfit.
+The human dyer Zomuth Dopodstruslot: Fantastic!  Please come closer and ask again.
+The dwarf Mosus Osorkadol (to the human dyer Zomuth Dopodstruslot): It is terrifying.
+The dwarf animal dissector Solon Kikrostnish stands up.
+The dwarf brewer åton Inodevost (to the broker Tosid Mîrulled): The world is safer for travelers when night creatures no longer stalk the darkness.  The creature is Thateme Murkskull the crone of twilight.
+You: Let's trade.
+The human dyer Zomuth Dopodstruslot (to the dwarf Mosus Osorkadol): It is terrifying.
+The dwarf miller StinthÑd Gusilmat (to the dwarf craftsdwarf Kñbuk Reglerteth): The large pig tail right glove really makes the outfit.
+The human dyer Zomuth Dopodstruslot: Fantastic!  Please come closer and ask again.
+The dwarf brewer åton Inodevost (to the broker Tosid Mîrulled): It is terrifying.
+The dwarf Mosus Osorkadol (to the human dyer Zomuth Dopodstruslot): Goodbye.
+The dwarf miller StinthÑd Gusilmat (to the dwarf craftsdwarf Kñbuk Reglerteth): I am awoken to nuances of artwork.  It's interesting.
+The human dyer Zomuth Dopodstruslot (to the dwarf Mosus Osorkadol): Goodbye.
+The dwarf brewer åton Inodevost (to the broker Tosid Mîrulled): A vile beast from the caverns now walks the land.  The creature is Vel Kindledpatterns the troll.
+The dwarf animal caretaker Urdim Shemduthnur (to the dwarf Udib Ölilzasit): Ha ha ha...  You're funny!
+The dwarf miller StinthÑd Gusilmat (to the dwarf craftsdwarf Kñbuk Reglerteth): I try to live and behave properly.
+The dwarf woodcutter Dumat KÉkdallogem (to the dwarf Mosus Osorkadol): Greetings.  My name is Dumat Brimpainted.
+The dwarf animal dissector StÉkud Abantakóth (to the hammerer SÜkzul Reglñk): Salutations.  It is good to see you.
+You: Let's trade.
+The broker Tosid Mîrulled (to the dwarf brewer åton Inodevost): It is terrifying.
+The dwarf tanner Endok Kikrostroder (to the dwarf animal trainer Deler Gutidolin): I feel fine.
+The dwarf craftsdwarf Kñbuk Reglerteth (to the dwarf miller StinthÑd Gusilmat): People do get so carried away sometimes, but not I.
+The dwarf Mosus Osorkadol (to the dwarf woodcutter Dumat KÉkdallogem): Ah, hello.  I'm Mosus Kingdomhatchets.
+The hammerer SÜkzul Reglñk (to the dwarf animal dissector StÉkud Abantakóth): I got into an argument.  I am very satisfied.
+The human dyer Zomuth Dopodstruslot: Of course.  Let's do business.
+The dwarf brewer åton Inodevost (to the broker Tosid Mîrulled): It is terrifying.
+The dwarf animal caretaker Urdim Shemduthnur (to the dwarf Udib Ölilzasit): Ha ha ha...  You're funny!
+The dwarf miller StinthÑd Gusilmat (to the dwarf craftsdwarf Kñbuk Reglerteth): The large pig tail shoe really makes the outfit.
+The dwarf woodcutter Dumat KÉkdallogem (to the dwarf Mosus Osorkadol): The world is safer for travelers when night creatures no longer stalk the darkness.  The creature is Ngotol Ghosttomb the dark creature.
+The dwarf animal dissector StÉkud Abantakóth (to the hammerer SÜkzul Reglñk): The world is safer for travelers when night creatures no longer stalk the darkness.  The creature is Ngotol Ghosttomb the dark creature.
+The hammerer SÜkzul Reglñk (to the dwarf animal dissector StÉkud Abantakóth): It is terrifying.
+The hammerer SÜkzul Reglñk (to the dwarf animal dissector StÉkud Abantakóth): The large pig tail dress really makes the outfit.
+*** STARTING NEW GAME ***
+** Loading Adventurer **
+The dwarf Edâm ãlulathel (to the dwarf cook Ubbul AlÜthnekut): I prefer to be by myself.
+The dwarf animal caretaker Bâmbul Anamrimtar (to the human suturer Atir Pibegu): Why should I help?
+The dwarf animal caretaker Bâmbul Anamrimtar (to the human suturer Atir Pibegu): I don't always do things in the most efficient way.
+The dwarf Edâm ãlulathel (to the dwarf cook Ubbul AlÜthnekut): I'm at my best under pressure.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): It's my mess.
+The dwarf animal caretaker Bâmbul Anamrimtar (to the human suturer Atir Pibegu): It's a great day to fall in love all over again.
+The dwarf Edâm ãlulathel (to the dwarf cook Ubbul AlÜthnekut): One must always carefully consider the correct course of action.
+The dwarf carpenter Likot Danmanducim: Greetings.  My name is Likot Heavyworked.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): Yes, I want more.  Is that so bad?
+The dwarf animal caretaker Bâmbul Anamrimtar (to the human suturer Atir Pibegu): What's this about proper living?
+The dwarf Edâm ãlulathel (to the dwarf cook Ubbul AlÜthnekut): One must always carefully consider the correct course of action.
+The dwarf animal caretaker Bâmbul Anamrimtar (to the human suturer Atir Pibegu): I don't always do things in the most efficient way.
+The human suturer Atir Pibegu (to the dwarf animal caretaker Bâmbul Anamrimtar): People are basically trustworthy.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): What's the rush?
+The human suturer Atir Pibegu (to the dwarf animal caretaker Bâmbul Anamrimtar): I'm fine.
+The human suturer Atir Pibegu (to the dwarf animal caretaker Bâmbul Anamrimtar): I'm well.
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): I go with the flow sometimes.
+The dwarf Edâm ãlulathel (to the dwarf cook Ubbul AlÜthnekut): I could tell you all about it!
+The dwarf animal caretaker Bâmbul Anamrimtar (to the human suturer Atir Pibegu): I don't like being obligated to anybody.
+The human suturer Atir Pibegu (to the dwarf animal caretaker Bâmbul Anamrimtar): Do you have dreams?  Tell me a story!
+The dwarf cook Ubbul AlÜthnekut (to the dwarf Edâm ãlulathel): My trust is earned, and not by many.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Adventurer **
+You drink the water [2].
+You drink the water.
+You eat the plump helmets [5].
+You are starting to feel full.
+You eat the plump helmets [4].
+You feel really full.
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): ... and the dwarf saw the sun and vomited on the spot!
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): Ha ha ha...  You're funny!
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): I'm alright.
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): Have no fear.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): W... worried?  Do I look worried?
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): Everything just so in its proper place!
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): Do you have dreams?  Tell me a story!
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): I'm doing alright.
+You pick up the dwarven rum [40] with your first right hand.
+You drink the dwarven rum [40].
+It's too much!  You might not be able to keep it down.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): Everything's fine.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): Everything's fine.
+You vomit.
+The dwarf suturer Dumat Sazirrir: Greetings.  My name is Dumat Bridgedears.
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): I'm alright.
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): I don't feel like I need to chase anything.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): I feel well.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): I'm doing alright.
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): How can people be so glum?
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): I'm doing well.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): I'm doing well.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): How can people be so glum?
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): I'm doing alright.
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): I'm concentrating on something.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): I'm at my best under pressure.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): I could really use a drink.
+You retch.
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): So, the eagle devil and the leopards...
+You retch.
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): Everything's good.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): Ha ha ha...  You're funny!
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): I'm alright.
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): I feel good.
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): Everything's good.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): Who cares what they think?
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): I don't understand why they have to be that way.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): Friendship is forever.
+You retch.
+You retch.
+You retch.
+You retch.
+You retch.
+You retch.
+You retch.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): Why must they be so violent?
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): How can people be so glum?
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): My trust is earned, and not by many.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): I'm good.
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): I don't like being obligated to anybody.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): I feel fine.
+You retch.
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): I don't understand why they have to be that way.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): I like to dress well.
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): I don't feel like I need to chase anything.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): How can people be so glum?
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): Yes, I want more.  Is that so bad?
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): I'm feeling randy today!
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): So, the moose and the seahorses...
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): My trust is earned, and not by many.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): Don't waste my time.
+You retch.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): I need some more excitement in my life.
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): ... and the dwarf saw the sun and vomited on the spot!
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): I'm doing fine.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): Don't waste my time.
+The dwarf soap maker At°r Bàngengastesh (to the dwarf craftsdwarf ïnul Egomthob): Everything's alright.
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): Do you have dreams?  Tell me a story!
+The dwarf craftsdwarf ïnul Egomthob (to the dwarf soap maker At°r Bàngengastesh): I'm concentrating on something.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): I've been fine.
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): So, the goose and the worm men...
+The dwarf suturer Dumat Sazirrir (to the dwarf woodcrafter Asân Mislimul): Greetings.  My name is Dumat Bridgedears.
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): Ha ha ha...  You're funny!
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): ... and the goblins said, "Are you going to eat that?"
+The dwarf mason Rakust Mengsebãr (to the human craftsman Thrun Oprated): Ha ha ha...  You're funny!
+You retch.
+The human craftsman Thrun Oprated (to the dwarf mason Rakust Mengsebãr): I'm doing alright.
