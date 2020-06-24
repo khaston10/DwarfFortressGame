@@ -10,11 +10,7 @@ Font size: 180x180
 Resizing grid to 80x25
 Resizing font to 180x180
 
-New window size: 958x1008
-Font size: 180x180
-Resizing font to 11x11
-
-New window size: 1920x1017
+New window size: 1920x1027
 Font size: 180x180
 Resizing font to 24x24
 

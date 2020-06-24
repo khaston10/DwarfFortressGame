@@ -1093,3 +1093,8 @@ You make a orange wood bed.
 You pick up the orange wood logs and put it in your echidna leather backpack.
 You drop the orange wood bed.
 You drop the orange wood bed.
+*** STARTING NEW GAME ***
+** Loading Adventurer **
+The sky is clear above you.
+The sun is low in the eastern sky.
+There is a cool breeze blowing from the west.
